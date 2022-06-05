@@ -4,9 +4,6 @@
  This data can be accessed in a desired order using flags.
 
 
-TODO: Remove the link above. Your README should not depend on a link to the spec.
-
-TODO: Replace this section with a short (1-3 paragraph) description of the project. What it does, how it does it, and any features that stand out. If you ever need to refer back to this project, the description should jog your memory.
 
 ## Building
 
@@ -19,7 +16,6 @@ make
 
 ## Program Options
 
-TODO: Provide an overview of program options and their descriptions, if applicable. If the program does not accept any options, delete this section.
 
 ```bash
 $ ./da -h
